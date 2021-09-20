@@ -92,7 +92,7 @@ header h2 {
     letter-spacing: 0.05em;
 }
 /*Popular Items*/
-section.popularItems class #popular {
+section.popularItems {
     background-color: teal;
     margin: 0 0 2.0em;
     padding: 1.5em 0 2.0em 1.5em;
@@ -105,8 +105,8 @@ nav{
     color: #000;
     font-size: 1.8em;
     letter-spacing: 0.04em;
-    padding: 1.0em 1.0em 0.5em;
-    margin: 1.0em 0;
+    padding: 1.0em 1.0em 1.0em;
+    margin: 0.5em 0;
 }
 nav ul {
     margin: 0;
@@ -201,7 +201,7 @@ section div.panel img.coffeeType {
 footer {
     background-color: black;
     height: 50px;
-    font-size: 100%;
+    font-size: 135%;
     color: tomato;
     text-align: center;
     padding: 1.5em 2.0em;
