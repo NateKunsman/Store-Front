@@ -51,7 +51,7 @@ hr{
 .contentWrapper {
     margin: 0 auto;
     max-width: 1170px;
-    padding: 0 .3em;
+    padding: 0 0.3em;
 }
 .left{
     float: left;
@@ -92,7 +92,7 @@ header h2 {
     letter-spacing: 0.05em;
 }
 /*Popular Items*/
-section #popularItems {
+section.popularItems class #popular {
     background-color: teal;
     margin: 0 0 2.0em;
     padding: 1.5em 0 2.0em 1.5em;
