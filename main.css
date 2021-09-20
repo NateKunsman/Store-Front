@@ -200,8 +200,8 @@ section div.panel img.coffeeType {
 /*Footer*/
 footer {
     background-color: black;
-    height: 25px;
-    font-size: 1.2em;
+    height: 50px;
+    font-size: 20%;
     color: tomato;
     text-align: center;
     padding: 1.5em 2.0em;
